@@ -42,4 +42,4 @@ Includes sample bug reports with priorities, reproduction steps, and expected re
 ##  Summary
 
 This project reflects my QA mindset and ability to identify, prioritize, and report bugs in a structured way using JIRA.  
-Looking forward to growing in game QA and working with dev teams!
+Looking forward to growing in game QA and working with dev teams.
