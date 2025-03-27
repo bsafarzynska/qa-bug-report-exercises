@@ -33,22 +33,6 @@ Includes sample bug reports with priorities, reproduction steps, and expected re
 
 ---
 
-##  Screenshots
-
-###  Kanban board in JIRA
-![Kanban Board](screenshots/kanban-overview.png)
-*Organized bug reports with statuses: To Do, In Progress, Done.*
-
-###  Detailed bug report view
-![Bug Detail](screenshots/bug-camera-clips.png)
-*Includes steps to reproduce, expected vs actual result, and environment info.*
-
-###  Creating a new bug with priority selection
-![Bug Form](screenshots/typo-bug-priority.png)
-*Shows how a typo bug is reported and priority is selected.*
-
----
-
 ##  Summary
 
 This project reflects my QA mindset and ability to identify, prioritize, and report bugs in a structured way using JIRA.
